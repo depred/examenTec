@@ -16,7 +16,7 @@
 <body>
 
   <!-- formulario múltiple-->
-<form id="msform">
+<form id="msform" action="datosbd.php" method="POST">
 
   <!-- barra de progreso -->
   <ul id="progressbar">
